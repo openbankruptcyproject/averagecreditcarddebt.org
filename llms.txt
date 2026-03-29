@@ -1,0 +1,43 @@
+# averagecreditcarddebt.org
+
+> Free data and analysis on average credit card debt in America -- national statistics, state-by-state breakdowns, age and income demographics, historical trends, and when debt becomes unmanageable.
+
+averagecreditcarddebt.org is a free, open-source educational resource about credit card debt in the United States. Data sourced from the Federal Reserve, NY Fed, TransUnion, and Census Bureau. Part of the Open Bankruptcy Project.
+
+## Pages
+
+- https://averagecreditcarddebt.org/: National average credit card debt overview. $6,501 average balance per cardholder, $1.21 trillion total revolving credit.
+- https://averagecreditcarddebt.org/by-state.html: Average credit card debt by state -- highest and lowest states, regional patterns, cost of living factors.
+- https://averagecreditcarddebt.org/by-age.html: Average credit card debt by age group -- Gen Z, Millennials, Gen X, Baby Boomers, Silent Generation.
+- https://averagecreditcarddebt.org/by-income.html: How income affects credit card debt -- debt-to-income ratios across income brackets.
+- https://averagecreditcarddebt.org/trends.html: Historical credit card debt trends 2019-2025 -- COVID impact, post-pandemic surge, interest rate effects.
+- https://averagecreditcarddebt.org/above-average.html: What to do if your credit card debt is above average -- practical steps, warning signs, and relief options.
+- https://averagecreditcarddebt.org/when-to-file.html: When credit card debt signals it may be time for bankruptcy -- thresholds, means test, Chapter 7 vs Chapter 13.
+- https://averagecreditcarddebt.org/paying-minimums.html: The minimum payment trap -- the math of how long it takes to pay off credit card debt with minimums only.
+- https://averagecreditcarddebt.org/faq.html: Frequently asked questions about credit card debt statistics, averages, and bankruptcy options.
+
+## Key Facts
+
+- Total U.S. credit card debt: $1.21 trillion (Q4 2024, NY Fed)
+- Average balance per cardholder: $6,501 (TransUnion Q3 2024)
+- Average household credit card debt: $10,479 (2024 estimate)
+- Average credit card APR: 22.76% (Federal Reserve, 2024)
+- Credit card debt is generally dischargeable in Chapter 7 bankruptcy
+- The means test determines Chapter 7 eligibility based on income vs. state median
+
+## Network
+
+Part of the Open Bankruptcy Project:
+- 1328f.com -- Discharge eligibility screener
+- 1328f.org -- Research platform
+- creditcardforgiveness.org -- Credit card debt forgiveness options
+- creditcarddebtbankruptcy.org -- Credit card debt and bankruptcy
+- meanstest.org -- Chapter 7 means test
+- howmuchdoesbankruptcycost.com -- Bankruptcy cost calculator
+- 727a8.com -- Chapter 7 discharge bar
+- automaticstay.org -- The automatic stay
+- 341meeting.org -- Meeting of creditors
+
+## Contact
+
+This site is maintained by volunteers. No legal advice is provided.

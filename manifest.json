@@ -1,0 +1,16 @@
+{
+  "name": "Average Credit Card Debt -- National Statistics & Trends",
+  "short_name": "CC Debt Stats",
+  "description": "Free data on average credit card debt in America -- by state, age, income, and trends. When debt becomes unmanageable and options including bankruptcy.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
