@@ -1,4 +1,4 @@
-# Average Credit Card Debt in America -- By State, Age & Income [2026]
+# Average Credit Card Debt in America - By State, Age & Income [2026]
 > Average credit card debt in America by state, age, and income. Updated 2026 statistics from the Federal Reserve and Census data.
 
 ## About
@@ -6,14 +6,16 @@ averagecreditcarddebt.org is part of the Open Bankruptcy Project (openbankruptcy
 
 ## Key Pages
 - Above Average Credit Card Debt? What to Do Next: https://averagecreditcarddebt.org/above-average.html
-- Credit Card Debt by Age Group -- Gen Z to Boomers (2024 Data): https://averagecreditcarddebt.org/by-age.html
-- Credit Card Debt by Income Level -- Who Carries the Most?: https://averagecreditcarddebt.org/by-income.html
-- Average Credit Card Debt by State 2024 -- All 50 States Ranked: https://averagecreditcarddebt.org/by-state.html
-- FAQ -- Credit Card Debt Statistics and Bankruptcy: https://averagecreditcarddebt.org/faq.html
-- Average Credit Card Debt in America -- By State, Age & Income: https://averagecreditcarddebt.org/
-- The Minimum Payment Trap -- How $6,500 Takes 18 Years to Pay Off -- Credit Card Debt: https://averagecreditcarddebt.org/paying-minimums.html
-- Credit Card Debt Trends 2019-2025 -- COVID, Inflation, and the Post-Pandemic Surge: https://averagecreditcarddebt.org/trends.html
+- Credit Card Debt by Age Group - Gen Z to Boomers (2024 Data): https://averagecreditcarddebt.org/by-age.html
+- Credit Card Debt by Income Level - Who Carries the Most?: https://averagecreditcarddebt.org/by-income.html
+- Average Credit Card Debt by State 2024 - All 50 States Ranked: https://averagecreditcarddebt.org/by-state.html
+- FAQ - Credit Card Debt Statistics and Bankruptcy: https://averagecreditcarddebt.org/faq.html
+- Average Credit Card Debt in America - By State, Age & Income: https://averagecreditcarddebt.org/
+- The Minimum Payment Trap - How $6,500 Takes 18 Years to Pay Off - Credit Card Debt: https://averagecreditcarddebt.org/paying-minimums.html
+- Credit Card Debt Statistics 2026 - Total US Credit Card Debt, Average APR, Delinquency Data: https://averagecreditcarddebt.org/statistics-2026.html
+- Credit Card Debt Trends 2019-2025 - COVID, Inflation, and the Post-Pandemic Surge: https://averagecreditcarddebt.org/trends.html
 - When Credit Card Debt Means It's Time for Bankruptcy: https://averagecreditcarddebt.org/when-to-file.html
+- Privacy Policy: https://averagecreditcarddebt.org/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org

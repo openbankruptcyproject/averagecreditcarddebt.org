@@ -26,7 +26,7 @@ FAQ
 
 Is Your Debt Above Average?
 
-Being above average does not automatically mean trouble -- but there are warning signs. Here is how to evaluate your situation honestly.
+Being above average does not automatically mean trouble - but there are warning signs. Here is how to evaluate your situation honestly.
 
 Network › Credit Card Debt › Above Average
 
@@ -208,7 +208,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Credit Card Debt by Age Group -- Gen Z to Boomers (2024 Data)
+## Credit Card Debt by Age Group - Gen Z to Boomers (2024 Data)
 Source: https://averagecreditcarddebt.org/by-age.html
 
 Skip to main content
@@ -226,11 +226,11 @@ When to File
 Minimum Trap
 FAQ
 
-Part of the Open Bankruptcy Project -- 139+ free domains, 2,300+ pages, $0 hosting
+Part of the Open Bankruptcy Project - 139+ free domains, 2,300+ pages, $0 hosting
 
 Credit Card Debt by Age Group
 
-Gen Z, Millennials, Gen X, Boomers, and the Silent Generation -- how credit card debt changes across your lifetime and when it becomes dangerous.
+Gen Z, Millennials, Gen X, Boomers, and the Silent Generation - how credit card debt changes across your lifetime and when it becomes dangerous.
 
 Network › Credit Card Debt › By Age
 
@@ -254,7 +254,7 @@ $3,316
 Silent
 (79+)
 
-Credit Card Debt by Generation -- Complete Comparison
+Credit Card Debt by Generation - Complete Comparison
 
 Generation
 Ages
@@ -300,9 +300,9 @@ $3,316
 
 Sources: TransUnion Q3 2024, Experian 2024, Federal Reserve Bank of New York, ABI bankruptcy filing statistics. Delinquency = 90+ days past due. BK filing rate per 1,000 adults in age cohort.
 
-Gen Z (Ages 18-27) -- $3,262 Average
+Gen Z (Ages 18-27) - $3,262 Average
 
-Born 1997-2009 -- Fastest-growing debt segment
+Born 1997-2009 - Fastest-growing debt segment
 
 Gen Z's average balance of $3,262 is the lowest of any adult generation, but the trajectory is alarming. Year-over-year growth of 13.2% is nearly triple the rate of older generations, and delinquency rates at 10.9% are the highest of any age group.
 
@@ -320,9 +320,9 @@ Taking on additional credit to pay existing credit card bills
 
 Gen Z filers overwhelmingly qualify for Chapter 7 due to lower incomes. A Chapter 7 filing can eliminate all credit card debt in about 3-4 months.
 
-Millennials (Ages 28-43) -- $6,521 Average
+Millennials (Ages 28-43) - $6,521 Average
 
-Born 1981-1996 -- The student loan + credit card double bind
+Born 1981-1996 - The student loan + credit card double bind
 
 Millennials carry credit card balances near the national average, but the story is more complicated than the number suggests. This generation also holds $38,877 in average student loan debt, making their total unsecured debt burden significantly higher than any previous generation at the same age.
 
@@ -340,11 +340,11 @@ Relying on credit cards for rent, groceries, or medical expenses
 
 Note: Student loans are generally not dischargeable in bankruptcy (see bankruptcystudentloans.org), but credit card debt is. Filing Chapter 7 to eliminate credit card debt can free up income to address student loans.
 
-Gen X (Ages 44-59) -- $9,123 Average
+Gen X (Ages 44-59) - $9,123 Average
 
-Born 1965-1980 -- Highest balances, highest filing rate
+Born 1965-1980 - Highest balances, highest filing rate
 
-Gen X carries the highest average credit card balance of any generation at $9,123 -- 40% above the national average. They also file for bankruptcy at the highest rate: 4.6 per 1,000 adults.
+Gen X carries the highest average credit card balance of any generation at $9,123 - 40% above the national average. They also file for bankruptcy at the highest rate: 4.6 per 1,000 adults.
 
 The squeeze generation: Gen X is caught between supporting children (including college tuition) and aging parents, while carrying their own mortgage and consumer debt. Many Gen X households have accumulated credit card debt to bridge gaps between income and the cost of supporting multiple generations.
 
@@ -376,13 +376,13 @@ Medical expenses going onto credit cards
 
 Gen X filers who earn above their state's median income may need Chapter 13 instead of Chapter 7, but a 3-5 year repayment plan can still reduce total payments compared to decades of minimums.
 
-Baby Boomers (Ages 60-78) -- $6,642 Average
+Baby Boomers (Ages 60-78) - $6,642 Average
 
-Born 1946-1964 -- Fixed income meets persistent debt
+Born 1946-1964 - Fixed income meets persistent debt
 
-Boomers carry $6,642 in average credit card debt -- slightly above the national average -- but the context is critical. Many Boomers are retired or approaching retirement on fixed incomes. A $6,642 balance at 22% APR requires $133/month in minimum payments, which is significant when Social Security averages $1,907/month.
+Boomers carry $6,642 in average credit card debt - slightly above the national average - but the context is critical. Many Boomers are retired or approaching retirement on fixed incomes. A $6,642 balance at 22% APR requires $133/month in minimum payments, which is significant when Social Security averages $1,907/month.
 
-The retirement debt crisis: Bankruptcy filings among Americans 65 and older have tripled since 1991. The primary driver is not reckless spending -- it is medical expenses, reduced income after retirement, and credit card debt accumulated to bridge the gap between fixed income and rising costs.
+The retirement debt crisis: Bankruptcy filings among Americans 65 and older have tripled since 1991. The primary driver is not reckless spending - it is medical expenses, reduced income after retirement, and credit card debt accumulated to bridge the gap between fixed income and rising costs.
 
 When Boomer Debt Becomes Unmanageable
 
@@ -398,33 +398,33 @@ Co-signed debts for children now in default
 
 Important: Social Security income is exempt from bankruptcy proceedings in most cases. Retirement accounts (401k, IRA, pension) are also generally protected. Many retirees can file Chapter 7 and keep all their assets. See exemptions by state.
 
-Silent Generation (Ages 79+) -- $3,316 Average
+Silent Generation (Ages 79+) - $3,316 Average
 
 Born before 1946
 
 The Silent Generation carries the second-lowest average at $3,316, with the lowest delinquency rate at 3.2%. This generation is most likely to be debt-averse and to carry small balances used primarily for convenience. However, among those who do carry balances, medical expenses are the most common driver.
 
-Delinquency Rates by Age -- Who Is Falling Behind?
+Delinquency Rates by Age - Who Is Falling Behind?
 
 Delinquency (90+ days past due) is the clearest signal that debt has become unmanageable. Younger generations show significantly higher delinquency rates despite lower absolute balances.
 
 GenerationDelinquency RateChange vs. 2019Interpretation
 
-Gen Z10.9%+4.2 ptsCrisis level -- highest of any group
+Gen Z10.9%+4.2 ptsCrisis level - highest of any group
 
-Millennials8.1%+2.8 ptsElevated -- exceeds pre-COVID baseline
+Millennials8.1%+2.8 ptsElevated - exceeds pre-COVID baseline
 
-Gen X7.3%+1.9 ptsAbove normal -- approaching 2008 levels
+Gen X7.3%+1.9 ptsAbove normal - approaching 2008 levels
 
-Boomers5.8%+1.1 ptsModerate -- fixed income strain showing
+Boomers5.8%+1.1 ptsModerate - fixed income strain showing
 
-Silent3.2%+0.4 ptsStable -- lowest risk
+Silent3.2%+0.4 ptsStable - lowest risk
 
 Source: Federal Reserve Bank of New York, Household Debt and Credit Report, Q4 2024.
 
 Bankruptcy Filing Rates by Age Group
 
-Bankruptcy is not just for the young or the old -- it peaks in middle age when debt burdens collide with financial obligations.
+Bankruptcy is not just for the young or the old - it peaks in middle age when debt burdens collide with financial obligations.
 
 Age Range% of All BK FilingsMost Common ChapterPrimary Debt Type
 
@@ -448,7 +448,7 @@ Frequently Asked Questions
 
 Which generation has the most credit card debt?
 
-Gen X (ages 44-59) carries the highest average balance at $9,123 -- 40% above the national average. They also have the highest bankruptcy filing rate at 4.6 per 1,000 adults.
+Gen X (ages 44-59) carries the highest average balance at $9,123 - 40% above the national average. They also have the highest bankruptcy filing rate at 4.6 per 1,000 adults.
 
 How much credit card debt does the average Millennial have?
 
@@ -456,11 +456,11 @@ Millennials average $6,521 in credit card debt, near the national average. But c
 
 Is Gen Z credit card debt growing?
 
-Yes -- faster than any other generation. Gen Z balances grew 13.2% year-over-year, and their delinquency rate of 10.9% is the highest of any age group.
+Yes - faster than any other generation. Gen Z balances grew 13.2% year-over-year, and their delinquency rate of 10.9% is the highest of any age group.
 
 At what age do people file bankruptcy most often?
 
-Ages 45-54 account for 23% of all bankruptcy filings -- the most of any age bracket. However, filings among Americans 65+ have tripled since 1991.
+Ages 45-54 account for 23% of all bankruptcy filings - the most of any age bracket. However, filings among Americans 65+ have tripled since 1991.
 
 Can retirees file bankruptcy and keep Social Security?
 
@@ -489,6 +489,10 @@ Student Loans in Bankruptcy
 Chapter 7 vs Chapter 13
 
 Bankruptcy Means Test
+
+Related Resources
+
+Rule 9037 PII Scanner (Open Source)
 
 Support Free Bankruptcy Research
 
@@ -531,7 +535,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## Credit Card Debt by Income Level -- Who Carries the Most?
+## Credit Card Debt by Income Level - Who Carries the Most?
 Source: https://averagecreditcarddebt.org/by-income.html
 
 Skip to main content
@@ -551,7 +555,7 @@ FAQ
 
 Credit Card Debt by Income
 
-Higher income means higher balances -- but lower income means higher burden. The debt-to-income ratio is what really matters.
+Higher income means higher balances - but lower income means higher burden. The debt-to-income ratio is what really matters.
 
 Network › Credit Card Debt › By Income
 
@@ -600,7 +604,7 @@ The Debt-to-Income Gap
 
 The table above reveals the core inequality of credit card debt: a household earning $20,000/year spends nearly 20% of gross income just servicing credit card debt, while a household earning $150,000 spends about 5%.
 
-The poverty trap: Lower-income households pay higher APRs (due to lower credit scores), carry balances longer (less disposable income for extra payments), and face a higher risk of delinquency -- which further raises their interest rates. The system compounds against those who can least afford it.
+The poverty trap: Lower-income households pay higher APRs (due to lower credit scores), carry balances longer (less disposable income for extra payments), and face a higher risk of delinquency - which further raises their interest rates. The system compounds against those who can least afford it.
 
 Why Lower-Income Households Carry Relatively More Debt
 
@@ -618,7 +622,7 @@ When Income Makes Debt Unmanageable
 
 Financial advisors generally consider credit card debt a crisis when it exceeds 10% of gross income or 20% of take-home pay. By that standard:
 
-Households under $45,000/year: The average credit card balance already exceeds the 10% threshold. For many in this bracket, the debt is structurally unpayable without intervention -- debt consolidation, negotiation, or bankruptcy.
+Households under $45,000/year: The average credit card balance already exceeds the 10% threshold. For many in this bracket, the debt is structurally unpayable without intervention - debt consolidation, negotiation, or bankruptcy.
 
 The Means Test Connection
 
@@ -743,7 +747,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Average Credit Card Debt by State 2024 -- All 50 States Ranked
+## Average Credit Card Debt by State 2024 - All 50 States Ranked
 Source: https://averagecreditcarddebt.org/by-state.html
 
 Skip to main content
@@ -761,11 +765,11 @@ When to File
 Minimum Trap
 FAQ
 
-Part of the Open Bankruptcy Project -- 139+ free domains, 2,300+ pages, $0 hosting
+Part of the Open Bankruptcy Project - 139+ free domains, 2,300+ pages, $0 hosting
 
 Average Credit Card Debt by State
 
-All 50 states plus DC -- ranked from highest to lowest average credit card balance, with median household income for context.
+All 50 states plus DC - ranked from highest to lowest average credit card balance, with median household income for context.
 
 Network › Credit Card Debt › By State
 
@@ -818,7 +822,7 @@ RankStateAvg. BalanceMedian Incomevs. National
 
 Context matters: Mississippi's $4,784 average balance represents 9.7% of the state's median household income. Connecticut's $7,654 balance represents only 8.5% of its median income. Lower absolute debt does not mean easier debt. For state-specific bankruptcy exemptions, see our exemption guide.
 
-All 50 States + DC -- Complete Credit Card Debt Rankings
+All 50 States + DC - Complete Credit Card Debt Rankings
 
 Average credit card balance per cardholder, ranked highest to lowest. Median household income from the U.S. Census Bureau (2023 ACS). The debt-to-income column shows the balance as a percentage of annual median household income.
 
@@ -936,7 +940,7 @@ The debt-to-income column reveals the real story. Louisiana has only the 29th-hi
 
 Southern States Face the Biggest Burden
 
-States across the South -- Alabama, Louisiana, Mississippi, South Carolina, Florida, Georgia, and New Mexico -- consistently show debt-to-income ratios above 10%. These are also states with higher per-capita bankruptcy filing rates.
+States across the South - Alabama, Louisiana, Mississippi, South Carolina, Florida, Georgia, and New Mexico - consistently show debt-to-income ratios above 10%. These are also states with higher per-capita bankruptcy filing rates.
 
 The Exemption Connection
 
@@ -944,7 +948,7 @@ Your state's bankruptcy exemptions determine what you keep if you file. Some sta
 
 Why State Averages Vary
 
-Cost of living: In high-cost states, residents put more everyday expenses on credit cards -- groceries, gas, utilities, and childcare.
+Cost of living: In high-cost states, residents put more everyday expenses on credit cards - groceries, gas, utilities, and childcare.
 
 Median income: Higher-income states generate higher credit limits, which enables higher balances even among responsible borrowers.
 
@@ -972,7 +976,7 @@ Alaska leads with an average balance of $7,961 per cardholder, 22% above the nat
 
 Which state has the lowest credit card debt?
 
-Mississippi has the lowest average at $4,784 -- but with a median household income of $49,111, the burden relative to income is comparable to wealthier states with higher balances.
+Mississippi has the lowest average at $4,784 - but with a median household income of $49,111, the burden relative to income is comparable to wealthier states with higher balances.
 
 What is the national average credit card debt in 2024?
 
@@ -1049,7 +1053,7 @@ Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 ---
 
-## FAQ -- Credit Card Debt Statistics and Bankruptcy
+## FAQ - Credit Card Debt Statistics and Bankruptcy
 Source: https://averagecreditcarddebt.org/faq.html
 
 Skip to main content
@@ -1256,7 +1260,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Average Credit Card Debt in America -- By State, Age & Income [2026]
+## Average Credit Card Debt in America - By State, Age & Income [2026]
 Source: https://averagecreditcarddebt.org/
 
 🌐 Esta pagina esta disponible en Espanol
@@ -1276,7 +1280,7 @@ When to File
 Minimum Trap
 FAQ
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
 Average Credit Card Debt by State
 
@@ -1296,7 +1300,7 @@ Which states carry the most credit card debt? See the top 10 highest and lowest.
 
 Debt by Age Group
 
-Gen Z to Boomers -- how credit card debt varies by generation.
+Gen Z to Boomers - how credit card debt varies by generation.
 
 Debt by Income
 
@@ -1308,7 +1312,7 @@ Historical Trends
 
 The Minimum Payment Trap
 
-The math of paying minimums only -- how $6,500 takes 18+ years to pay off.
+The math of paying minimums only - how $6,500 takes 18+ years to pay off.
 
 When to Consider Bankruptcy
 
@@ -1346,7 +1350,7 @@ Americans carry more credit card debt than at any point in history. Total revolv
 
 The average individual cardholder balance is $6,501 (TransUnion, Q3 2024). When calculated per household (since multiple cardholders may share a household), NerdWallet estimates the average at approximately $10,479.
 
-Why does it matter? Credit card debt is the most expensive form of consumer debt. The average APR is 22.76% -- more than triple the average mortgage rate and roughly five times the average auto loan rate. At that interest rate, a $6,501 balance paying minimum payments would take over 18 years to pay off and cost more than $9,000 in interest alone.
+Why does it matter? Credit card debt is the most expensive form of consumer debt. The average APR is 22.76% - more than triple the average mortgage rate and roughly five times the average auto loan rate. At that interest rate, a $6,501 balance paying minimum payments would take over 18 years to pay off and cost more than $9,000 in interest alone.
 
 Credit Card Debt vs. Other Consumer Debt
 
@@ -1384,11 +1388,11 @@ Income: Higher-income households carry higher balances, but lower-income househo
 
 Homeownership: Homeowners average roughly 30% more credit card debt than renters, partly because they tend to have higher credit limits.
 
-Rising Delinquencies -- A Warning Signal
+Rising Delinquencies - A Warning Signal
 
 Credit card delinquency rates are climbing. As of Q4 2024, 3.25% of credit card balances are 90+ days past due, according to the NY Fed. That rate has been rising steadily since early 2022, when it was just 1.57%.
 
-What rising delinquencies mean: More Americans are unable to make even minimum payments. When delinquency rates rise while total debt is also rising, it signals that borrowers are reaching a breaking point -- not just spending more, but running out of the ability to service what they owe.
+What rising delinquencies mean: More Americans are unable to make even minimum payments. When delinquency rates rise while total debt is also rising, it signals that borrowers are reaching a breaking point - not just spending more, but running out of the ability to service what they owe.
 
 For perspective, the 90+ day delinquency rate during the 2008-2009 financial crisis peaked at approximately 6.8%. The current rate of 3.25% is well above pre-pandemic levels (2.1% in Q4 2019) and continuing to climb.
 
@@ -1396,7 +1400,7 @@ If you are behind on credit card payments and cannot see a path to catching up, 
 
 Credit Card Debt and Bankruptcy
 
-Credit card debt is the most common type of unsecured debt listed in bankruptcy filings. It is almost always fully dischargeable -- meaning it can be eliminated entirely through Chapter 7 or included in a Chapter 13 repayment plan.
+Credit card debt is the most common type of unsecured debt listed in bankruptcy filings. It is almost always fully dischargeable - meaning it can be eliminated entirely through Chapter 7 or included in a Chapter 13 repayment plan.
 
 Key Facts About Credit Card Debt in Bankruptcy
 
@@ -1473,7 +1477,7 @@ This site is free and open-source. Donations support the Open Bankruptcy Project
 
 ♥ Sponsor
 
-Cited by the federal judiciary -- This project's data was accepted by the Advisory Committee on Bankruptcy Rules as Suggestion 26-BK-3
+Cited by the federal judiciary - This project's data was accepted by the Advisory Committee on Bankruptcy Rules as Suggestion 26-BK-3
 
 Further Reading & Resources
 
@@ -1528,7 +1532,7 @@ bankruptcytaxes.org →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -1667,17 +1671,20 @@ automaticstay.org
 bankruptcymill.org
 ♥ Sponsor
 GitHub
+Rule 9037 PII Scanner
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
 A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
 
 Privacy | Terms | Open Bankruptcy Project
 
+Cited by the Federal Rules Committee (26-BK-3)
+
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
 
 ---
 
-## The Minimum Payment Trap -- How $6,500 Takes 18 Years to Pay Off -- Credit Card Debt
+## The Minimum Payment Trap - How $6,500 Takes 18 Years to Pay Off - Credit Card Debt
 Source: https://averagecreditcarddebt.org/paying-minimums.html
 
 Skip to main content
@@ -1775,11 +1782,11 @@ Why the Trap Is So Effective
 
 1. The Payment Feels Affordable
 
-$163/month for a $6,500 balance feels reasonable. Most people can manage that. The problem is that it is designed to feel manageable -- that is how credit card companies ensure you keep paying interest for 18 years.
+$163/month for a $6,500 balance feels reasonable. Most people can manage that. The problem is that it is designed to feel manageable - that is how credit card companies ensure you keep paying interest for 18 years.
 
 2. The Balance Barely Moves
 
-In the first year of minimum payments on $6,500, you will pay approximately $1,956 total. Your balance will decrease by approximately $520 -- from $6,500 to $5,980. You paid nearly $2,000 and your balance dropped by $520.
+In the first year of minimum payments on $6,500, you will pay approximately $1,956 total. Your balance will decrease by approximately $520 - from $6,500 to $5,980. You paid nearly $2,000 and your balance dropped by $520.
 
 3. The Minimum Drops as You Pay
 
@@ -1953,7 +1960,362 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Credit Card Debt Trends 2019-2025 -- COVID, Inflation, and the Post-Pandemic Surge
+## Credit Card Debt Statistics 2026 - Total US Credit Card Debt, Average APR, Delinquency Data
+Source: https://averagecreditcarddebt.org/statistics-2026.html
+
+Skip to main content
+
+averagecreditcarddebt.org
+☰
+
+Home
+By State
+By Age
+2026 Stats
+By Income
+Trends
+When to File
+Minimum Trap
+FAQ
+
+Part of the Open Bankruptcy Project - 139+ free domains, 2,300+ pages, $0 hosting
+
+Credit Card Debt Statistics 2026
+
+The definitive current-year statistics page. Federal Reserve, TransUnion, and Experian data - updated as new quarterly reports are released.
+
+$1.21 trillion total U.S. credit card debt (all-time high)
+
+$6,501 average balance per cardholder
+
+22.8% average APR (highest ever recorded)
+
+Latest: NY Fed Q4 2024, TransUnion Q3 2024, Fed G.19 Q4 2024
+
+Network › Credit Card Debt › 2026 Statistics
+
+$1.21T
+Total U.S. CC Debt
+(NY Fed Q4 2024)
+
+$6,501
+Avg. Per Cardholder
+(TransUnion Q3 2024)
+
+22.8%
+Average APR
+(Fed G.19 Q4 2024)
+
+$10,479
+Avg. Household Debt
+(Balance-carrying HH)
+
+3.1%
+Delinquency Rate
+(90+ days, NY Fed)
+
+~$3,000
+Median CC Debt
+(SCF 2022, adj.)
+
+Total US Credit Card Debt - Historical Trajectory
+
+Americans collectively owe $1.21 trillion in credit card debt as of Q4 2024, according to the Federal Reserve Bank of New York. This is an all-time record, surpassing the pre-pandemic peak by over $150 billion.
+
+QuarterTotal CC DebtQoQ ChangeYoY Change
+
+Q4 2024$1.211 trillion+$45B+$81B (+7.2%)
+
+Q3 2024$1.166 trillion+$24B+$72B (+6.6%)
+
+Q2 2024$1.142 trillion+$27B+$71B (+6.6%)
+
+Q1 2024$1.115 trillion-$15B+$86B (+8.4%)
+
+Q4 2023$1.130 trillion+$50B+$104B (+10.1%)
+
+Q4 2022$1.026 trillion+$61B+$130B (+14.5%)
+
+Q4 2021$0.896 trillion+$52B+$71B (+8.6%)
+
+Q4 2020$0.825 trillion+$12B-$105B (-11.3%)
+
+Q4 2019$0.930 trillion+$46B+$42B (+4.7%)
+
+Source: Federal Reserve Bank of New York, Quarterly Report on Household Debt and Credit.
+
+The COVID dip and rebound: Total credit card debt dropped 11.3% in 2020 due to government stimulus payments and reduced spending. It has since surged 46.7% from the 2020 trough, adding $386 billion in four years.
+
+Average vs. Median - Which Number Matters?
+
+The "average credit card debt" number depends on how you measure it:
+
+MeasureAmountSourceWhat It Captures
+
+Avg. per cardholder$6,501TransUnion Q3 2024All cardholders, including those who pay in full
+
+Avg. household (balance-carrying)$10,479NerdWallet 2024Only households with revolving balances
+
+Median debt~$3,000Fed SCF 2022, adj.50th percentile - half owe less, half more
+
+Per capita (all adults)$4,651NY Fed / Census$1.21T divided by 260M adults
+
+Why the median matters: The average is pulled up by high-balance accounts. The median of approximately $3,000 means half of all credit card holders owe less than this. If your balance significantly exceeds $3,000, you are carrying more debt than most Americans.
+
+Average Credit Card APR - Record Highs
+
+Credit card interest rates have reached historic highs following the Federal Reserve's rate increases from 2022-2024.
+
+Card TypeAverage APRRange
+
+All credit cards22.8%18.0%-28.0%
+
+New card offers24.2%19.0%-29.9%
+
+Retail/store cards28.9%25.0%-32.0%
+
+Balance transfer (after promo)22.1%17.0%-27.0%
+
+Penalty APR29.99%27.0%-29.99%
+
+Source: Federal Reserve Board, G.19 Consumer Credit Statistical Release, Q4 2024. Bankrate weekly survey.
+
+APR Historical Context
+
+YearAverage APRFed Funds Rate
+
+2026 (current)22.8%4.25%-4.50%
+
+202320.7%5.25%-5.50%
+
+202016.3%0.00%-0.25%
+
+201515.2%0.00%-0.25%
+
+201014.7%0.00%-0.25%
+
+200513.0%3.00%-4.25%
+
+The compounding problem: At 22.8% APR, a $6,501 balance generates $1,482 in interest per year - or $123 per month - before any principal is paid. Even if you never charge another dollar, interest alone adds $4 per day to your balance.
+
+The Minimum Payment Trap - Real Math
+
+Most credit card issuers set the minimum payment at 2% of the balance or $25, whichever is greater. Here is what happens when you pay only the minimum on the average balance:
+
+Minimum Payment Scenario: $6,501 at 22.8% APR
+
+Starting balance$6,501
+
+APR22.8%
+
+Minimum payment2% of balance ($130 initially)
+
+Time to pay off18 years, 7 months
+
+Total payments$14,423
+
+Total interest paid$7,922
+
+Interest as % of principal121.9%
+
+What If You Paid $200/Month Instead?
+
+Starting balance$6,501
+
+Fixed monthly payment$200
+
+Time to pay off3 years, 11 months
+
+Total payments$9,353
+
+Total interest paid$2,852
+
+Savings vs. minimums$5,070 saved, 14.7 years faster
+
+What If You Filed Chapter 7 Instead?
+
+Debt eliminated$6,501 (100%)
+
+Typical attorney fee$1,500
+
+Court filing fee$338
+
+Total cost$1,838
+
+Time to discharge3-4 months
+
+Savings vs. minimums$12,585 saved
+
+For more on the minimum payment trap, see our detailed breakdown. For comparing bankruptcy to other options, see bankruptcy vs. settlement.
+
+Delinquency Trends - Who Is Falling Behind?
+
+Credit card delinquency (90+ days past due) has risen steadily since the post-COVID lows and now exceeds pre-pandemic levels for younger borrowers.
+
+PeriodOverall RateUnder 3030-3940-4950-5960+
+
+Q4 20243.1%10.9%8.1%7.3%5.8%4.5%
+
+Q4 20233.0%9.8%7.2%6.4%5.3%4.1%
+
+Q4 20222.5%7.9%6.1%5.5%4.6%3.5%
+
+Q4 20211.6%5.1%4.2%3.8%3.2%2.6%
+
+Q4 20192.4%7.3%5.8%5.2%4.3%3.3%
+
+Source: Federal Reserve Bank of New York, Household Debt and Credit Report, various quarters.
+
+The under-30 crisis: Delinquency among borrowers under 30 has risen from 5.1% (Q4 2021) to 10.9% (Q4 2024) - a 114% increase in three years. For more on generational debt patterns, see debt by age group.
+
+Credit Card Ownership and Usage
+
+MetricValueSource
+
+Adults with at least one credit card83% (216M)Fed SCF 2022
+
+Average cards per cardholder3.9Experian 2024
+
+Total open credit card accounts594 millionTransUnion Q3 2024
+
+Cardholders carrying a balance49%Fed SCF 2022
+
+Adults revolving (est.)~131 millionCalculated
+
+Total available credit$4.8 trillionTransUnion Q3 2024
+
+National utilization rate25.2%TransUnion Q3 2024
+
+Credit Card Debt and Bankruptcy - 2026 Numbers
+
+As credit card debt and delinquency rise, so do bankruptcy filings.
+
+Metric20242023Change
+
+Total bankruptcy filings485,241433,658+11.9%
+
+Chapter 7 filings289,402257,893+12.2%
+
+Chapter 13 filings186,738168,123+11.1%
+
+CC debt as primary trigger~67%~64%+3 pts
+
+Source: American Bankruptcy Institute; U.S. Courts Statistics.
+
+Credit card debt is almost always fully dischargeable in bankruptcy. Chapter 7 eliminates it in 3-4 months. Chapter 13 may require partial repayment over 3-5 years. See When to File for thresholds and warning signs.
+
+When New Data Is Released
+
+This page is updated as new quarterly data becomes available from federal sources:
+
+SourceReportNext ReleaseCovers
+
+NY FedHousehold Debt & CreditMay 2025Q1 2025
+
+TransUnionCredit Industry InsightsApril 2025Q4 2024
+
+Federal ReserveG.19 Consumer CreditMonthlyRolling
+
+ExperianState of CreditAnnual (Fall)Full year
+
+Fed SCFSurvey of Consumer Finances20282025 data
+
+Bookmark this page. We update these statistics as each new quarterly report is released. The data above reflects the most recent available from each source as of April 2026.
+
+Frequently Asked Questions
+
+What is the total US credit card debt in 2026?
+
+$1.21 trillion as of Q4 2024 (the most recent NY Fed data). This is an all-time record. Q1 2025 data is expected in May 2025.
+
+What is the average credit card debt per person?
+
+$6,501 per cardholder (TransUnion). Among households that carry balances, the average is $10,479. The median is approximately $3,000, meaning half of cardholders owe less.
+
+What is the average credit card APR?
+
+22.8% as of Q4 2024 - the highest ever recorded. New card offers average 24.2%. Store cards average 28.9%.
+
+How long does it take to pay off credit card debt at minimums?
+
+At the average balance of $6,501 with 22.8% APR and 2% minimum payments: 18 years, 7 months. Total cost: $14,423 - more than double the original debt.
+
+What percentage of Americans have credit card debt?
+
+83% of adults have at least one credit card. Of those, 49% carry a balance month to month - roughly 131 million Americans revolving credit card debt.
+
+Sources
+
+Federal Reserve Bank of New York, Quarterly Report on Household Debt and Credit, Q4 2024
+
+TransUnion, Credit Industry Insights Report, Q3 2024
+
+Board of Governors of the Federal Reserve System, G.19 Consumer Credit Statistical Release, Q4 2024
+
+NerdWallet, American Household Credit Card Debt Study, 2024
+
+Federal Reserve, Survey of Consumer Finances, 2022
+
+Experian, State of Credit Report, 2024
+
+Bankrate, Weekly Credit Card Rate Report
+
+American Bankruptcy Institute, Annual Bankruptcy Filing Statistics
+
+U.S. Census Bureau, Population Estimates, 2024
+
+Related Guides
+
+Credit Card Debt in Bankruptcy
+
+Credit Card Debt Forgiveness
+
+How Much Does Bankruptcy Cost?
+
+Bankruptcy Means Test
+
+Support Free Bankruptcy Research
+
+This site is free and open-source. Donations support the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+♥ Sponsor
+
+$16,500+ spent · $0 donated · $0 hosting · 139 domains · 2,300+ pages · All free, forever.
+
+You May Also Find Helpful
+
+Bankruptcy Means Test by State -- bankruptcymeanstest.org
+
+Chapter 7 vs. Chapter 13 Comparison -- chapter7vs13.org
+
+Cease and Desist Letters for Debt Collectors -- ceaseanddesistdebt.com
+
+Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
+
+Part of the Open Bankruptcy Project
+
+Real information, no strings.
+
+1328f.com
+1328f.org
+creditcardforgiveness.org
+creditcarddebtbankruptcy.org
+meanstest.org
+howmuchdoesbankruptcycost.com
+automaticstay.org
+♥ Sponsor
+GitHub
+
+This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
+A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
+
+Privacy | Terms | Open Bankruptcy Project
+
+Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+---
+
+## Credit Card Debt Trends 2019-2025 - COVID, Inflation, and the Post-Pandemic Surge
 Source: https://averagecreditcarddebt.org/trends.html
 
 Skip to main content
@@ -2016,7 +2378,7 @@ The artificial reprieve: The COVID dip was not a sign of improved financial heal
 
 Phase 2: The Post-Pandemic Surge (2022-2024)
 
-Credit card debt rocketed from $770 billion to $1.21 trillion in just three years -- a 57% increase. Several factors converged:
+Credit card debt rocketed from $770 billion to $1.21 trillion in just three years - a 57% increase. Several factors converged:
 
 Inflation
 
@@ -2026,7 +2388,7 @@ Interest Rate Hikes
 
 The Federal Reserve raised the federal funds rate 11 times between March 2022 and July 2023, from near-zero to 5.25-5.50%. Credit card APRs, which are directly tied to the Fed rate, rose from an average of 16.3% to 22.76%.
 
-The rate trap: A $6,500 balance at 16.3% APR costs $1,060 in annual interest. The same balance at 22.76% costs $1,479 -- an extra $419/year that goes entirely to the credit card company, not to reducing the balance. For many households, the rate hikes alone made the difference between being able to pay down debt and falling further behind.
+The rate trap: A $6,500 balance at 16.3% APR costs $1,060 in annual interest. The same balance at 22.76% costs $1,479 - an extra $419/year that goes entirely to the credit card company, not to reducing the balance. For many households, the rate hikes alone made the difference between being able to pay down debt and falling further behind.
 
 Student Loan Payments Resume
 
@@ -2034,7 +2396,7 @@ In October 2023, federal student loan payments resumed after a 3.5-year pause. F
 
 Savings Depletion
 
-The "excess savings" accumulated during COVID -- estimated at $2.1 trillion in aggregate -- were largely exhausted by mid-2023. With no savings buffer, credit cards became the last line of defense.
+The "excess savings" accumulated during COVID - estimated at $2.1 trillion in aggregate - were largely exhausted by mid-2023. With no savings buffer, credit cards became the last line of defense.
 
 Phase 3: Rising Delinquencies (2024-2025)
 
@@ -2404,3 +2766,75 @@ Privacy | Terms | Open Bankruptcy Project
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Privacy Policy - averagecreditcarddebt.org
+Source: https://averagecreditcarddebt.org/privacy.html
+
+averagecreditcarddebt.org
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
