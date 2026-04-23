@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://averagecreditcarddebt.org/sitemap.xml
+
+Sitemap: https://averagecreditcarddebt.org/sitemapindex.xml
