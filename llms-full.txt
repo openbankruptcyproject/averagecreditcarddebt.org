@@ -1111,7 +1111,7 @@ About Credit Card Debt and Bankruptcy
 
 Can credit card debt be discharged in bankruptcy?
 
-Yes. Credit card debt is classified as general unsecured debt and is almost always fully dischargeable in both Chapter 7 and Chapter 13 bankruptcy. Narrow exceptions exist under Section 523(a)(2) for luxury purchases over $800 within 90 days of filing, cash advances over $1,100 within 70 days, and debt incurred through fraud.
+Yes. Credit card debt is classified as general unsecured debt and is almost always fully dischargeable in both Chapter 7 and Chapter 13 bankruptcy. Narrow exceptions exist under Section 523(a)(2) for luxury purchases over $900 within 90 days of filing, cash advances over $1,250 within 70 days, and debt incurred through fraud.
 
 Is there a minimum amount of debt to file bankruptcy?
 
@@ -1410,7 +1410,7 @@ Chapter 7 can discharge all credit card debt in approximately 3-4 months, with n
 
 Chapter 13 includes credit card debt in a 3-5 year repayment plan. Unsecured creditors (including credit card companies) typically receive pennies on the dollar.
 
-Exceptions: Credit card charges incurred through fraud, luxury purchases over $800 within 90 days of filing, or cash advances over $1,100 within 70 days may be challenged as debts that cannot be discharged under Section 523(a)(2).
+Exceptions: Credit card charges incurred through fraud, luxury purchases over $900 within 90 days of filing, or cash advances over $1,250 within 70 days may be challenged as debts that cannot be discharged under Section 523(a)(2).
 
 No minimum debt threshold: There is no minimum amount of debt required to file bankruptcy. If $3,000 in credit card debt is unmanageable on your income, you can file.
 
@@ -2635,7 +2635,7 @@ Credit card debt is almost always dischargeable, but there are narrow exceptions
 
 Luxury purchases over $800 within 90 days before filing
 
-Cash advances over $1,100 within 70 days before filing
+Cash advances over $1,250 within 70 days before filing
 
 Fraud: Charges made with no intention of repaying, or on applications with materially false information
 
