@@ -1,23 +1,76 @@
-# Average Credit Card Debt in America - By State, Age & Income [2026]
-> Last updated: 2026-05-01
+# Average American Credit Card Debt [2026]
+> Last updated: 2026-09-25
 
-> Average credit card debt in America by state, age, and income. Updated 2026 statistics from the Federal Reserve and Census data.
+> Average American credit card debt by state, age, income, and household. 2026 statistics from Federal Reserve and Census data, with US averages
 
 ## About
 averagecreditcarddebt.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- Above Average Credit Card Debt? What to Do Next: https://averagecreditcarddebt.org/above-average.html
+- Above-Average Credit Card Debt [2026]: $7,951 US Mean and What to Do When You Exceed It: https://averagecreditcarddebt.org/above-average.html
 - Credit Card Debt by Age Group - Gen Z to Boomers (2024 Data): https://averagecreditcarddebt.org/by-age.html
-- Credit Card Debt by Income Level - Who Carries the Most?: https://averagecreditcarddebt.org/by-income.html
+- Credit Card Debt by Income Level [2026]: Federal Reserve SCF Tier-by-Tier Data: https://averagecreditcarddebt.org/by-income.html
 - Average Credit Card Debt by State 2024 - All 50 States Ranked: https://averagecreditcarddebt.org/by-state.html
-- FAQ - Credit Card Debt Statistics and Bankruptcy: https://averagecreditcarddebt.org/faq.html
-- Average Credit Card Debt in America - By State, Age & Income: https://averagecreditcarddebt.org/
-- The Minimum Payment Trap - How $6,500 Takes 18 Years to Pay Off - Credit Card Debt: https://averagecreditcarddebt.org/paying-minimums.html
+- Credit Card Debt Statistics FAQ [2026]: Average Balances, Bankruptcy Thresholds, and Means-Test Math: https://averagecreditcarddebt.org/faq.html
+- Average American Credit Card Debt: https://averagecreditcarddebt.org/
+- Minimum Payment Trap [2026]: How $6,500 at 24% APR Takes 18 Years to Pay Off: https://averagecreditcarddebt.org/paying-minimums.html
 - Credit Card Debt Statistics 2026 - Total US Credit Card Debt, Average APR, Delinquency Data: https://averagecreditcarddebt.org/statistics-2026.html
 - Credit Card Debt Trends 2019-2025 - COVID, Inflation, and the Post-Pandemic Surge: https://averagecreditcarddebt.org/trends.html
-- When Credit Card Debt Means It's Time for Bankruptcy: https://averagecreditcarddebt.org/when-to-file.html
+- When Credit Card Debt Triggers Bankruptcy [2026]: Debt-to-Income, Minimums, and 11 USC 707(b) Eligibility: https://averagecreditcarddebt.org/when-to-file.html
 - Privacy Policy: https://averagecreditcarddebt.org/privacy.html
+- About averagecreditcarddebt.org: https://averagecreditcarddebt.org/about.html
+- Average Credit Card Debt in Alabama [2026]: $5,700 and What It Means: https://averagecreditcarddebt.org/states/alabama.html
+- Average Credit Card Debt in Alaska [2026]: $8,000 and What It Means: https://averagecreditcarddebt.org/states/alaska.html
+- Average Credit Card Debt in Arizona [2026]: $6,400 and What It Means: https://averagecreditcarddebt.org/states/arizona.html
+- Average Credit Card Debt in Arkansas [2026]: $5,500 and What It Means: https://averagecreditcarddebt.org/states/arkansas.html
+- Average Credit Card Debt in California [2026]: $6,600 and What It Means: https://averagecreditcarddebt.org/states/california.html
+- Average Credit Card Debt in Colorado [2026]: $6,700 and What It Means: https://averagecreditcarddebt.org/states/colorado.html
+- Average Credit Card Debt in Connecticut [2026]: $7,400 and What It Means: https://averagecreditcarddebt.org/states/connecticut.html
+- Average Credit Card Debt in Delaware [2026]: $6,500 and What It Means: https://averagecreditcarddebt.org/states/delaware.html
+- Average Credit Card Debt in District of Columbia [2026]: $6,900 and What It Means: https://averagecreditcarddebt.org/states/district-of-columbia.html
+- Average Credit Card Debt in Florida [2026]: $6,850 and What It Means: https://averagecreditcarddebt.org/states/florida.html
+- Average Credit Card Debt in Georgia [2026]: $6,700 and What It Means: https://averagecreditcarddebt.org/states/georgia.html
+- Average Credit Card Debt in Hawaii [2026]: $7,000 and What It Means: https://averagecreditcarddebt.org/states/hawaii.html
+- Average Credit Card Debt in Idaho [2026]: $5,900 and What It Means: https://averagecreditcarddebt.org/states/idaho.html
+- Average Credit Card Debt in Illinois [2026]: $6,400 and What It Means: https://averagecreditcarddebt.org/states/illinois.html
+- Average Credit Card Debt by State: https://averagecreditcarddebt.org/states/
+- Average Credit Card Debt in Indiana [2026]: $5,850 and What It Means: https://averagecreditcarddebt.org/states/indiana.html
+- Average Credit Card Debt in Iowa [2026]: $5,500 and What It Means: https://averagecreditcarddebt.org/states/iowa.html
+- Average Credit Card Debt in Kansas [2026]: $6,100 and What It Means: https://averagecreditcarddebt.org/states/kansas.html
+- Average Credit Card Debt in Kentucky [2026]: $5,700 and What It Means: https://averagecreditcarddebt.org/states/kentucky.html
+- Average Credit Card Debt in Louisiana [2026]: $6,050 and What It Means: https://averagecreditcarddebt.org/states/louisiana.html
+- Average Credit Card Debt in Maine [2026]: $5,800 and What It Means: https://averagecreditcarddebt.org/states/maine.html
+- Average Credit Card Debt in Maryland [2026]: $7,200 and What It Means: https://averagecreditcarddebt.org/states/maryland.html
+- Average Credit Card Debt in Massachusetts [2026]: $6,500 and What It Means: https://averagecreditcarddebt.org/states/massachusetts.html
+- Average Credit Card Debt in Michigan [2026]: $5,900 and What It Means: https://averagecreditcarddebt.org/states/michigan.html
+- Average Credit Card Debt in Minnesota [2026]: $6,000 and What It Means: https://averagecreditcarddebt.org/states/minnesota.html
+- Average Credit Card Debt in Mississippi [2026]: $5,400 and What It Means: https://averagecreditcarddebt.org/states/mississippi.html
+- Average Credit Card Debt in Missouri [2026]: $6,000 and What It Means: https://averagecreditcarddebt.org/states/missouri.html
+- Average Credit Card Debt in Montana [2026]: $5,900 and What It Means: https://averagecreditcarddebt.org/states/montana.html
+- Average Credit Card Debt in Nebraska [2026]: $5,900 and What It Means: https://averagecreditcarddebt.org/states/nebraska.html
+- Average Credit Card Debt in Nevada [2026]: $6,750 and What It Means: https://averagecreditcarddebt.org/states/nevada.html
+- Average Credit Card Debt in New Hampshire [2026]: $6,500 and What It Means: https://averagecreditcarddebt.org/states/new-hampshire.html
+- Average Credit Card Debt in New Jersey [2026]: $7,600 and What It Means: https://averagecreditcarddebt.org/states/new-jersey.html
+- Average Credit Card Debt in New Mexico [2026]: $5,900 and What It Means: https://averagecreditcarddebt.org/states/new-mexico.html
+- Average Credit Card Debt in New York [2026]: $6,750 and What It Means: https://averagecreditcarddebt.org/states/new-york.html
+- Average Credit Card Debt in North Carolina [2026]: $6,100 and What It Means: https://averagecreditcarddebt.org/states/north-carolina.html
+- Average Credit Card Debt in North Dakota [2026]: $5,600 and What It Means: https://averagecreditcarddebt.org/states/north-dakota.html
+- Average Credit Card Debt in Ohio [2026]: $5,950 and What It Means: https://averagecreditcarddebt.org/states/ohio.html
+- Average Credit Card Debt in Oklahoma [2026]: $6,100 and What It Means: https://averagecreditcarddebt.org/states/oklahoma.html
+- Average Credit Card Debt in Oregon [2026]: $6,100 and What It Means: https://averagecreditcarddebt.org/states/oregon.html
+- Average Credit Card Debt in Pennsylvania [2026]: $6,200 and What It Means: https://averagecreditcarddebt.org/states/pennsylvania.html
+- Average Credit Card Debt in Rhode Island [2026]: $6,450 and What It Means: https://averagecreditcarddebt.org/states/rhode-island.html
+- Average Credit Card Debt in South Carolina [2026]: $6,050 and What It Means: https://averagecreditcarddebt.org/states/south-carolina.html
+- Average Credit Card Debt in South Dakota [2026]: $5,500 and What It Means: https://averagecreditcarddebt.org/states/south-dakota.html
+- Average Credit Card Debt in Tennessee [2026]: $6,100 and What It Means: https://averagecreditcarddebt.org/states/tennessee.html
+- Average Credit Card Debt in Texas [2026]: $7,000 and What It Means: https://averagecreditcarddebt.org/states/texas.html
+- Average Credit Card Debt in Utah [2026]: $6,200 and What It Means: https://averagecreditcarddebt.org/states/utah.html
+- Average Credit Card Debt in Vermont [2026]: $5,800 and What It Means: https://averagecreditcarddebt.org/states/vermont.html
+- Average Credit Card Debt in Virginia [2026]: $6,900 and What It Means: https://averagecreditcarddebt.org/states/virginia.html
+- Average Credit Card Debt in Washington [2026]: $6,600 and What It Means: https://averagecreditcarddebt.org/states/washington.html
+- Average Credit Card Debt in West Virginia [2026]: $5,700 and What It Means: https://averagecreditcarddebt.org/states/west-virginia.html
+- Average Credit Card Debt in Wisconsin [2026]: $5,550 and What It Means: https://averagecreditcarddebt.org/states/wisconsin.html
+- Average Credit Card Debt in Wyoming [2026]: $6,050 and What It Means: https://averagecreditcarddebt.org/states/wyoming.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org
